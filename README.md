@@ -16,6 +16,6 @@ Revolutionize the way you hail a ride with our cutting-edge taxi booking softwar
 **Scalability:** Whether you're a small-scale operation or a large fleet, our software scales effortlessly to meet your needs, ensuring reliability and performance at any scale.
 
 
-Demo: www.siddhitourism.com
-Support: wwww.asynczone.com
+Demo: www.siddhitourism.com</br>
+Support: www.asynczone.com</br>
 With GitHub Pages, you can easily showcase these features and attract users to experience the convenience and innovation of your taxi booking software.
